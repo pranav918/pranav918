@@ -1,7 +1,6 @@
 ### Github Yeah!
 
-🌱 I’m currently learning Machine learning, Competitive Programming. \
-📫 How to reach me: LinkedIn👋 https://www.linkedin.com/in/pranavdeshmukh/
+LinkedIn👋 https://www.linkedin.com/in/pranavdeshmukh/
 
 <!--
 **pranav918/pranav918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
