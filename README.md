@@ -1,6 +1,6 @@
 ### Github Yeah!
 
-LinkedIn👋 https://www.linkedin.com/in/pranavdeshmukh/
+LinkedIn👋 https://www.linkedin.com/in/pranavdeshmukh/ \
 Codechef ⚡ https://www.codechef.com/users/pranav918
 
 <!--
