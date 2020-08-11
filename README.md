@@ -1,5 +1,6 @@
 ### Github Yeah!
 
+🌱 I’m currently learning Machine learning, Competitive Programming.
 📫 How to reach me: LinkedIn👋 https://www.linkedin.com/in/pranavdeshmukh/
 
 <!--
