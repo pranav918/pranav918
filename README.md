@@ -1,7 +1,7 @@
 ### Github Yeah!
 
-LinkedIn👋 https://www.linkedin.com/in/pranavdeshmukh   \
-Codechef⚡  https://www.codechef.com/users/pranav918
+LinkedIn  ✨     https://www.linkedin.com/in/pranavdeshmukh   \
+ Codechef ⚡       https://www.codechef.com/users/pranav918
 
 <!--
 **pranav918/pranav918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👋
 -->
