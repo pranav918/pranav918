@@ -1,6 +1,9 @@
-### Github Yeah!
+### Hi There!
 
-LinkedIn  ✨     https://www.linkedin.com/in/pranavdeshmukh
+I'm interested in Data Structures and Algorithms.\
+Also love to build Android Apps.
+
+Reach me : [LinkedIn](https://www.linkedin.com/in/pranavdeshmukh)
 <!-- Codechef ⚡       https://www.codechef.com/users/pranav918
 
 <!--
