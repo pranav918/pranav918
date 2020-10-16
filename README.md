@@ -1,7 +1,7 @@
 ### Hi There!
 
 I'm interested in Data Structures and Algorithms.\
-Also love to build Android Apps.
+Also love to build Android Apps with implementation of machine learning algorithms.
 
 Reach me : [LinkedIn](https://www.linkedin.com/in/pranavdeshmukh)
 <!-- Codechef ⚡       https://www.codechef.com/users/pranav918
