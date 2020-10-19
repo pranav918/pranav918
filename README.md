@@ -3,7 +3,7 @@
 I'm interested in Data Structures and Algorithms.\
 Also love to build Android Apps with several machine learning algorithms.
 
-Reach me : [LinkedIn](https://www.linkedin.com/in/pranavdeshmukh)
+Reach me : [LinkedIn](https://www.linkedin.com/in/pranavdeshmukh) , [Email](mailto:pranavdeshmukh918@gmail.com)
 <!-- Codechef ⚡       https://www.codechef.com/users/pranav918
 
 <!--
