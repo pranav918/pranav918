@@ -1,4 +1,4 @@
-### Hi There!
+### Hi There👋!
 
 I'm interested in Data Structures and Algorithms.\
 Also love to build Android Apps with several machine learning algorithms.
