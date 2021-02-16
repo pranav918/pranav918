@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/pranav918/pranav918/blob/master/Resources/Hi.gif" width="40px" /> I'm Pranav</h1>
-<h3 align="center">A passionate Android developer who loves Competitive Programming</h3>
+<h3 align="center">A Passionate Android developer who Loves Competitive Programming</h3>
 
 
 I am a versatilist and easily adapt to different hats (Web Developer 🕸️, App Developer 📱 or beginner level ML Engineer 🤖) depending on what the project requires💡. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
