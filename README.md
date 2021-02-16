@@ -18,9 +18,6 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
   - ⚡  &nbsp; Fun fact **Common Sense is what tells us Earth is Flat  🌐.**
   - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pranavdeshmukh/)
 
-<br>
-
-<br>
 
 ### 🚀Languages And Tools:
 
