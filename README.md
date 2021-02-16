@@ -45,8 +45,8 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
 
   <p align="left">
   <a href="https://github.com/pranav918">
-    <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api?username=pranav918&count_private=true&show_icons=true&theme=vue-dark&count_private=true"/>
-    <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav918&layout=compact&theme=vue-dark"/>
+    <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=pranav918&count_private=true&show_icons=true&theme=vue-dark&count_private=true"/>
+    <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav918&layout=compact&theme=vue-dark"/>
   </a>
   </p>
 
