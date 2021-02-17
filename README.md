@@ -53,5 +53,7 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
 
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/pranavdeshmukh)](https://www.linkedin.com/in/pranavdeshmukh) &nbsp; &nbsp;
   [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pranavdeshmukh1152@gmail.com)](mailto:pranavdeshmukh1152@gmail.com) &nbsp; &nbsp;
+    [![Dev.to Badge](https://img.shields.io/badge/-dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/pranav918)](https://dev.to/pranav918) &nbsp; &nbsp;
   [![StackOverflow Badge](https://img.shields.io/badge/-stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13742657/pranav-deshmukh)](https://stackoverflow.com/users/13742657/pranav-deshmukh) &nbsp; &nbsp;
   [![Medium Badge](https://img.shields.io/badge/-medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@pranavdeshmukh918)](https://medium.com/@pranavdeshmukh918) &nbsp; &nbsp;
+
