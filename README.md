@@ -57,8 +57,6 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
   [![StackOverflow Badge](https://img.shields.io/badge/-stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13742657/pranav-deshmukh)](https://stackoverflow.com/users/13742657/pranav-deshmukh) &nbsp; &nbsp;
   [![Medium Badge](https://img.shields.io/badge/-medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@pranavdeshmukh918)](https://medium.com/@pranavdeshmukh918) &nbsp; &nbsp;
 
-<br>
-
  ### :pencil: Visitor Count:
 
 <p align="center"> 
