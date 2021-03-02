@@ -61,6 +61,6 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
 
  ### :pencil: Visitor Count:
 
-<p align="center"> <br>
+<p align="center"> 
   <img src="https://profile-count.glitch.me/pranav918/count" />
 </p>
