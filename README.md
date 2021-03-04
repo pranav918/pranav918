@@ -58,8 +58,3 @@ I am a versatilist and easily adapt to different hats (Web Developer 🕸️, Ap
   [![Medium Badge](https://img.shields.io/badge/-medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@pranavdeshmukh918)](https://medium.com/@pranavdeshmukh918) &nbsp; &nbsp;
 
 <br>
-
- ### :pencil: Visitor Count:
-<p align="center"> 
-  <img src="https://profile-count.glitch.me/pranav918/count" />
-</p>
